@@ -1,3 +1,7 @@
+# Based on the Ecommerce Tutorial:
+[Video](https://www.youtube.com/watch?v=377AQ0y6LPA), [Git repo](https://github.com/adrianhajdin/project_e_commerce) 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
